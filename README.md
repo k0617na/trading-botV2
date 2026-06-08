@@ -1,0 +1,1 @@
+[![XRP Auto Trade (RSI Strategy) V2](https://github.com/k0617na/trading-botV2/actions/workflows/trade.yml/badge.svg?branch=main&event=schedule)](https://github.com/k0617na/trading-botV2/actions/workflows/trade.yml)
